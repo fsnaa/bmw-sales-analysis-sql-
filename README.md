@@ -156,7 +156,7 @@ A **one-to-many star schema** was used for efficient analysis.
 ---
 
 ## 📁 Project Files
-- `mini project.xlsx` – Cleaned dataset, SQL output, pivot tables, and analysis  
+
 - `bmw sales project report.pdf` – Detailed project documentation  
 
 ---
